@@ -1,9 +1,9 @@
-name = "docs-commandline-tools"
+name = "database-tools"
 title = "MongoDB Database Tools"
 
-intersphinx = [ "https://docs.mongodb.com/manual/objects.inv" , "https://docs.python.org/2/objects.inv", "https://docs.python.org/2/objects.inv", "https://docs.python.org/3/objects.inv",  "https://docs.atlas.mongodb.com/objects.inv", "https://docs.mongodb.com/compass/current/objects.inv"]
-
-toc_landing_pages = ["/"]
+intersphinx = [ "https://docs.mongodb.com/manual/objects.inv", 
+                "https://docs.atlas.mongodb.com/objects.inv", 
+                "https://docs.mongodb.com/compass/current/objects.inv"]
 
 [constants]
 dbtools = "MongoDB Database Tools"
@@ -11,7 +11,7 @@ dbtools-short = "Database Tools"
 dbtools-pkg = "mongodb-database-tools"
 package-name-org = "mongodb-org"
 package-name-enterprise = "mongodb-enterprise"
-version = "{+version+}"
+version = "100.2.1"
 release = "{+version+}"
 pgp-version = "{+version+}"
 pgp-fingerprint = "E162F504A20CDF15827F718D4B7C549A058F8B6B"
