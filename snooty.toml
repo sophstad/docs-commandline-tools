@@ -5,6 +5,8 @@ intersphinx = [ "https://docs.mongodb.com/manual/objects.inv",
                 "https://docs.atlas.mongodb.com/objects.inv", 
                 "https://docs.mongodb.com/compass/current/objects.inv"]
 
+toc_landing_pages = ["/installation/installation"]
+
 [constants]
 dbtools = "MongoDB Database Tools"
 dbtools-short = "Database Tools"
