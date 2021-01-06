@@ -1,10 +1,14 @@
 .. _bsondump:
 
+.. default-domain:: mongodb
+
+.. binary:: bsondump
+
+.. program:: bsondump
+
 ============
 ``bsondump``
 ============
-
-.. default-domain:: mongodb
 
 .. contents:: On this page
    :local:
@@ -69,10 +73,6 @@ Installation
 
 Options
 -------
-
-.. binary:: bsondump
-
-.. program:: bsondump
 
 .. option:: --help
 

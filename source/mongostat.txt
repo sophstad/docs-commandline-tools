@@ -1,10 +1,14 @@
 .. _mongostat:
 
+.. default-domain:: mongodb
+
+.. binary:: mongostat
+
+.. program:: mongostat
+
 =============
 ``mongostat``
 =============
-
-.. default-domain:: mongodb
 
 .. contents:: On this page
    :local:
@@ -98,10 +102,6 @@ connections to a :binary:`~bin.mongod`/:binary:`~bin.mongos` that is
 
 Options
 -------
-
-.. binary:: mongostat
-
-.. program:: mongostat
 
 .. option:: --help
 

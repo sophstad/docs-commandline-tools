@@ -1,10 +1,14 @@
 .. _mongotop:
 
+.. default-domain:: mongodb
+
+.. binary:: mongotop
+
+.. program:: mongotop
+
 ============
 ``mongotop``
 ============
-
-.. default-domain:: mongodb
 
 .. contents:: On this page
    :local:
@@ -202,10 +206,6 @@ connections to a :binary:`~bin.mongod`/:binary:`~bin.mongos` that is
 
 Options
 -------
-
-.. binary:: mongotop
-
-.. program:: mongotop
 
 .. option:: --help
 

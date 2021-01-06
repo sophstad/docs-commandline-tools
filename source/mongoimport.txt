@@ -1,10 +1,14 @@
 .. _mongoimport:
 
+.. default-domain:: mongodb
+
+.. binary:: mongoimport
+
+.. program:: mongoimport
+
 ===============
 ``mongoimport``
 ===============
-
-.. default-domain:: mongodb
 
 .. contents:: On this page
    :local:
@@ -137,10 +141,6 @@ into which they are importing data.
 
 Options
 -------
-
-.. binary:: mongoimport
-
-.. program:: mongoimport
 
 .. option:: --help
 

@@ -1,10 +1,17 @@
 .. _mongodump:
 
+.. default-domain:: mongodb
+
+.. binary:: mongodump
+
+.. program:: mongodump
+
 =============
 ``mongodump``
 =============
 
-.. default-domain:: mongodb
+.. role:: red(strong)
+   :class: text-danger
 
 .. contents:: On this page
    :local:
@@ -355,10 +362,6 @@ Sharded Clusters
 
 Options
 -------
-
-.. binary:: mongodump
-
-.. program:: mongodump
 
 .. option:: --help
 

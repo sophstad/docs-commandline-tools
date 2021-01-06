@@ -1,10 +1,14 @@
 .. _mongorestore:
 
+.. default-domain:: mongodb
+
+.. binary:: mongorestore
+
+.. program:: mongorestore
+
 ================
 ``mongorestore``
 ================
-
-.. default-domain:: mongodb
 
 .. contents:: On this page
    :local:
@@ -263,10 +267,6 @@ Sharded Clusters
 
 Options
 -------
-
-.. binary:: mongorestore
-
-.. program:: mongorestore
 
 .. option:: --help
 

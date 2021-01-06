@@ -1,10 +1,17 @@
 .. _mongoexport:
 
+.. default-domain:: mongodb
+
+.. binary:: mongoexport
+
+.. program:: mongoexport
+
 ===============
 ``mongoexport``
 ===============
 
-.. default-domain:: mongodb
+.. role:: red(strong)
+   :class: text-danger
 
 .. contents:: On this page
    :local:
@@ -311,10 +318,6 @@ overrides the read preference specified in the URI string.
 
 Options
 -------
-
-.. binary:: mongoexport
-
-.. program:: mongoexport
 
 .. option:: --help
 

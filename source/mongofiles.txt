@@ -1,8 +1,14 @@
+.. _mongofiles:
+
+.. default-domain:: mongodb
+
+.. binary:: mongofiles
+
+.. program:: mongofiles
+
 ==============
 ``mongofiles``
 ==============
-
-.. default-domain:: mongodb
 
 .. contents:: On this page
    :local:
@@ -13,8 +19,6 @@
 .. |arrow| unicode:: U+27A4
 .. |tool-binary| replace:: :binary:`~bin.mongofiles`
 .. |mongodb-aws-example| replace:: :ref:`mongofiles-example-connect-using-aws-iam`
-
-.. binary:: mongofiles
 
 Synopsis
 --------
@@ -145,8 +149,6 @@ the write concern specified in the URI string.
 
 Options
 -------
-
-.. program:: mongofiles
 
 .. option:: --help
 
